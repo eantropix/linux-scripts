@@ -19,4 +19,4 @@ rm ./mozart2-2.0.1-x86_64-linux.deb
 export PATH=/usr/bin/oz:$PATH
 
 # Runs a quick Oz test.
-oz test.oz
+oz test.oz &
